@@ -489,7 +489,7 @@ This project showcases the effective application of advanced SQL techniques in t
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone 
+   git clone 'https://github.com/asutoshpadhiary4366/Sql-Projects.git'
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
