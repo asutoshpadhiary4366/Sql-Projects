@@ -492,8 +492,8 @@ This project showcases the effective application of advanced SQL techniques in t
    git clone 'https://github.com/asutoshpadhiary4366/Sql-Projects.git'
    ```
 
-2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
+2. **Set Up the Database**: Execute the SQL scripts in the  file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries in the `Library Management System All Queries.sql` file to perform the analysis.
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 ## Author - Asutosh Padhiary
